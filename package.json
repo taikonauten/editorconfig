@@ -1,0 +1,24 @@
+{
+  "name": "@taikonauten/editorconfig",
+  "version": "1.0.0",
+  "description": "This package provides the standardized .editorconfig file used at Taikonauten",
+  "license": "MIT",
+  "keywords": [
+    "editorconfig",
+    "editor",
+    "IDE"
+  ],
+  "contributors": [
+    "Kevin Woblick <kw@taikonauten.com>",
+    "Tobias Schubert <ts@taikonauten.com>",
+    "Thomas Lempa <tl@taikonauten.com>"
+  ],
+  "homepage": "https://github.com/taikonauten/editorconfig#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taikonauten/editorconfig.git"
+  },
+  "bugs": {
+    "url": "https://github.com/taikonauten/editorconfig/issues"
+  }
+}

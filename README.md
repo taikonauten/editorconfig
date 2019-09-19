@@ -22,6 +22,20 @@ The following important settings are applied to all files generated or worked wi
 * Whitespace is not removed from .markdown and .md files.
 * All files must have a final newline.
 
+## Installation
+
+Run the following two commands in your terminal to install the package and then create a symlink to the .editorconfig file:
+
+```bash
+npm install --save-dev @taikonauten/editorconfig
+
+ln -s node_modules/@taikonauten/editorconfig/.editorconfig .editorconfig
+```
+
+After that, make sure your editor or IDE supports the .editorconfig file. PhpStorm and Sublime work with it right out of the box.
+For Atom, install the [editorconfig](https://atom.io/packages/editorconfig) plugin.
+For VS Code, install the [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) plugin.
+
 ---
 
 Made with ♡ by Taikonauten
