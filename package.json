@@ -1,6 +1,6 @@
 {
   "name": "@taikonauten/editorconfig",
-  "version": "1.0.2",
+  "version": "1.0.1",
   "description": "This package provides the standardized .editorconfig file used at Taikonauten",
   "license": "MIT",
   "keywords": [
