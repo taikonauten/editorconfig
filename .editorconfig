@@ -12,8 +12,8 @@ max_line_length = off
 [*.js]
 max_line_length = 120
 
-[*.{html, phtml}]
-max_line_length = 120
+[*.{html, phtml, twig}]
+max_line_length = off
 
 [*.{md, markdown, txt}]
 max_line_length = off
